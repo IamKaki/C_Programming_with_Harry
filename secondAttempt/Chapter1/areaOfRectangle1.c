@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - get input from user then calculate area of rectangle
+ * main - get input from users then calculate area of rectangle
  * Return: 0
  **/
 
